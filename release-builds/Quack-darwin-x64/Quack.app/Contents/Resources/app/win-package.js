@@ -7,7 +7,7 @@ getInstallerConfig()
     console.error(error.message || error)
     process.exit(1)
   })
-  console.log('Done...')
+
 function getInstallerConfig () {
   console.log('Creating Windows installer')
   const rootPath = path.join('./')

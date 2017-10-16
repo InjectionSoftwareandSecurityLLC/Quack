@@ -1,5 +1,5 @@
 echo Building MacOS
-electron-packager . --overwrite --platform=darwin --arch=x64 --icon=assets/icons/mac/icon.icns --prune=true --out=release-builds
+electron-packager . --overwrite --platform=darwin --arch=x64 --icon=assets/icons/mac/256x256.icns --prune=true --out=release-builds
 echo Building Windows
 electron-packager . --overwrite  --platform=win32 --arch=x64 --icon=assets/icons/win/256x256.ico --prune=true --out=release-builds --version-string.CompanyName=CE --version-string.FileDescription=CE --version-string.ProductName="Quack"
 echo Building Linux
