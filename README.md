@@ -5,12 +5,12 @@ Duckuino native application for translating Ducky Script to Arduino C
 Created by 3ndG4me
 
 ### Version 1.0
-#### WIP: Release builds don't function 100% yet
-<!-- 
+
 - MacOs: [Download](https://github.com/3ndG4me/Quack/raw/master/release-builds/Quack.dmg)
 - Linux (debian): [Download](https://github.com/3ndG4me/Quack/raw/master/release-builds/Quack_1.0.0_amd64.deb)
 - Windows: [Download](https://github.com/3ndG4me/Quack/raw/master/release-builds/windows-installer/Quack-Install.exe)
--->
+
+**Note**, windows installer may throw an error during install. The installer still completes successfully and the application is working 100%, but we are aware of this issue with the installer.
 
 
 # Built Using Dckuino.js:
