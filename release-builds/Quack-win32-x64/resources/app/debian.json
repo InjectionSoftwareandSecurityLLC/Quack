@@ -1,0 +1,13 @@
+{
+    "dest": "release-builds/",
+    "icon": "assets/icons/png/256x256.png",
+    "categories": [
+      "Utility",
+      "Programming",
+      "IDE",
+      "Editor"
+    ],
+    "lintianOverrides": [
+      "changelog-file-missing-in-native-package"
+    ]
+  }

@@ -1,0 +1,4 @@
+npm install electron-packager -g
+npm install electron-installer-debian -g
+npm install electron-installer-dmg -g
+npm install electron-winstaller -g
