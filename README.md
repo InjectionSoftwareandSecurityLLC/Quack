@@ -1,6 +1,8 @@
 # Quack
 Duckuino native application for translating Ducky Script to Arduino C
 
+<img src="https://github.com/3ndG4me/Quack/raw/master/assets/icons/png/quack-icon.png" width="350px"/>
+
 
 Created by 3ndG4me
 
