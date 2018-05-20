@@ -1,0 +1,10 @@
+{
+    "name": "Quack",
+    "version": "1.0",
+    "platform": "all-desktop",
+    "progress": "100%",
+    "state": "done",
+    "released": true,
+    "release_version": "1.0",
+    "download_url": "https://github.com/InjectionSoftwareDevelopment/Quack/releases/tag/1.0"
+}
